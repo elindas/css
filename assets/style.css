@@ -1,5 +1,4 @@
 
-
 h1 {
     text-align: center;
  }
@@ -8,14 +7,12 @@ h2 {
     text-align: center;
  }
 
-
 .gambar {
     display: block;
     margin-left: auto;
     margin-right: auto;    
     width: 200px;
   }
-
 
 .about {
    margin-left: 450px;
@@ -37,11 +34,17 @@ p {
     margin-right: 300px; 
  }
 
- .card {
-    border: 1px solid;
-    border-color: green;
-    background-color: rgb(61, 202, 61);   
- }
+ /* .card {
+    border: 1px solid black;
+     
+ } */
+
+.pic {
+   margin-left: auto;
+   margin-right: auto;  
+   margin-top: 20px;  
+   width: 200px;
+}
 
  .link {
     text-align: center;
