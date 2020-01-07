@@ -16,9 +16,19 @@ h2 {
     width: 200px;
   }
 
+
+.about {
+   margin-left: 450px;
+   margin-right: 450px; 
+}
+
+.aboutme {
+   text-align: justify;
+}
+
 p {
-    text-align: center;
- }
+   text-align: center;
+}
 
 .container {
     display: flex;
