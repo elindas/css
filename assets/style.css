@@ -23,14 +23,16 @@ p {
 .container {
     display: flex;
     text-align: center;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 300px;
+    margin-right: 300px; 
  }
 
  .card {
-    border: 2px solid black;
+    border: 1px solid;
     border-color: green;
+    background-color: rgb(61, 202, 61);   
  }
+
 
  .link {
     text-align: center;
